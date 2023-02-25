@@ -1,6 +1,6 @@
-# Buisness-Website 🏙
+# Business-Website 🏙
 
-## Buisness Website 🏙
+## Business Website 🏙
 
-- Buisness website to the Top Tech companies , using HTML, CSS & JAVASCRIPT.
+- Business website to the Top Tech companies , using HTML, CSS & JAVASCRIPT.
 - Compatible with  devices and with a beautiful and pleasant user interface.
